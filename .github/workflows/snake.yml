@@ -9,6 +9,11 @@ on:
     branches:
       - main
 
+# Grant the GITHUB_TOKEN write access to push SVGs to the output branch.
+# Without this, github-actions[bot] gets a 403 since the default is read-only.
+permissions:
+  contents: write
+
 jobs:
   generate:
     name: Generate Snake Animation
