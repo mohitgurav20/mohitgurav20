@@ -30,14 +30,6 @@ class Mohit:
         print("Happy to pair on OSS issues, CTFs, or any security challenge!")
 ```
 
-- 🔭 Actively contributing to **OWASP** and other OSS projects — [see my repos →](https://github.com/mohitgurav20?tab=repositories)
-- 🔐 Learning **cybersecurity** — web vulns, binary exploitation, Linux hardening
-- 🛠️ Comfortable writing low-level **C/C++** and scripting in **Python**
-- 🐳 Containerising everything with **Docker** for clean, reproducible environments
-- 🐧 Bengaluru-based daily **Linux** driver — it's not a phase, it's a lifestyle
-- 💬 Ask me about **OSS contribution workflows, C/C++, Docker, or getting started in security**
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -49,8 +41,6 @@ class Mohit:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🐳 DevOps & Infrastructure
@@ -60,31 +50,9 @@ class Mohit:
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🔐 Security & Networking
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=mohitgurav20&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"/>
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitgurav20&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohitgurav20&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://github.com/mohitgurav20)
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -94,40 +62,9 @@ class Mohit:
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitgurav20/mohitgurav20/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitgurav20/mohitgurav20/output/github-contribution-grid-snake.svg"/>
-  <img alt="Mohit's contribution snake" src="https://raw.githubusercontent.com/mohitgurav20/mohitgurav20/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitgurav20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Mohit's%20Contribution%20Timeline)](https://github.com/mohitgurav20)
-
----
-
-## 🔥 Notable Repositories
-
-<div align="center">
-
-[![agenthon_](https://github-readme-stats.vercel.app/api/pin/?username=mohitgurav20&repo=agenthon_&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/mohitgurav20/agenthon_)
-[![datafusion](https://github-readme-stats.vercel.app/api/pin/?username=mohitgurav20&repo=datafusion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/mohitgurav20/datafusion)
-[![SIH26171](https://github-readme-stats.vercel.app/api/pin/?username=mohitgurav20&repo=SIH26171&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/mohitgurav20/SIH26171)
-[![nirvana_idp](https://github-readme-stats.vercel.app/api/pin/?username=mohitgurav20&repo=nirvana_idp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/mohitgurav20/nirvana_idp)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
