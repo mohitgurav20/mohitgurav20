@@ -19,12 +19,12 @@ class Mohit:
     username     = "mohitgurav20"
     location     = "Bengaluru, India 🇮🇳"
     pronouns     = "he/him"
-    focus        = ["Open Source Contributions", "Cybersecurity", "Systems Programming"]
+    focus        = ["Open Source Contributions", "Cybersecurity"]
     languages    = ["C", "C++", "Python", "SQL", "Bash"]
     tools        = ["Docker", "Linux", "Git", "GDB", "Wireshark", "OWASP"]
-    current_work = "Contributing to OWASP & open-source security/infra projects"
+    current_work = "Contributing to APACHE & open-source security/infra projects"
     learning     = ["Exploit Development", "Kernel Internals", "Network Security"]
-    fun_fact     = "117 contributions last year and the graph keeps getting greener 🟩"
+    fun_fact     = "117 contributions last year and the graph keeps getting greener "
 
     def say_hi(self):
         print("Happy to pair on OSS issues, CTFs, or any security challenge!")
@@ -52,19 +52,6 @@ class Mohit:
 ### 🔐 Security & Networking
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mohitgurav20&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitgurav20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Mohit's%20Contribution%20Timeline)](https://github.com/mohitgurav20)
 
 ## 🤝 Connect With Me
 
